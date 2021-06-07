@@ -4,7 +4,7 @@ My name is Anna. I'm a software engineer with experience building full stack pro
  
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44475953/120955031-5af98d00-c705-11eb-80d8-1abb51984c26.png" width=200 align="left">
+<img src="https://user-images.githubusercontent.com/44475953/121054657-6d111500-c771-11eb-8064-6ee96af7dacd.jpeg" width=200 align="left">
 
 ### Current stack: 
 
