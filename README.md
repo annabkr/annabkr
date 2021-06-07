@@ -14,7 +14,7 @@ My name is Anna. I'm a software engineer with experience building full stack pro
 
 **(10%) Other fun stuff:** Elasticsearch, AWS, Terraform, Datadog, Honeycomb.io
 </p>
-<br><br>
+<br>
 
 
 ## Welcome to my playground 😄
