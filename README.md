@@ -16,6 +16,8 @@ My name is Anna. I'm a software engineer with experience building full stack pro
 </p>
 
 
+
+
 ## Welcome to my playground 😄
 
 🔭 I’m currently working on exploring design patterns in Go.
