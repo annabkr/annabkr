@@ -21,8 +21,9 @@ My name is Anna. I'm a software engineer with experience building full stack pro
 
 🔭 I’m currently working on exploring design patterns in Go.
 
-🌱 I'm currently learning PostgreSQL and studying distributed system design. 
+🌱 I'm currently learning PostgreSQL and brushing up on Python.
  
+📚 I'm currently reading Designing Data-Intensive Applications by Martin Kleppman.
 
 <!--
 **annabkr/annabkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
