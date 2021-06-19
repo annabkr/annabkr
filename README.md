@@ -1,7 +1,6 @@
 ## Hi there 👋 
 
-My name is Anna. I'm a software engineer with experience building full stack product features, as well as wrangling distributed systems in the developer tool space. I love to learn and I'm always on the hunt for my next project. 
- 
+My name is Anna. I'm a software engineer in the developer tool space. I love to learn and I'm always on the hunt for my next project. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44475953/121054657-6d111500-c771-11eb-8064-6ee96af7dacd.jpeg" width=200 align="left">
@@ -24,6 +23,10 @@ My name is Anna. I'm a software engineer with experience building full stack pro
 🌱 I'm currently learning PostgreSQL and brushing up on Python.
  
 📚 I'm currently reading Designing Data-Intensive Applications by Martin Kleppman.
+
+---------------------------------------------------------------------------------
+
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annabkr&count_private=true&hide=stars,prs,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **annabkr/annabkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
