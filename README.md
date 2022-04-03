@@ -1,26 +1,26 @@
 ## Hi there 👋 
 
-My name is Anna. I'm a software engineer in the developer tool space. I love to learn and I'm always on the hunt for my next project. 
+I'm a software engineer in the developer tool space. I work at high-growth startup LaunchDarkly, and I'm a part-time graduate student pursuing a M.S. in Computer Science at Georgia Tech.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44475953/121054657-6d111500-c771-11eb-8064-6ee96af7dacd.jpeg" width=200 align="left">
 
 ### Current stack: 
 
-**(65%) Backend:** Go (Golang)
+**(65%) Backend:** Go (Golang).
 
-**(25%) Frontend:** JavaScript, TypeScript, React, Redux
+**(25%) Frontend:** TypeScript, React, Remix
 
-**(10%) Other fun stuff:** Elasticsearch, AWS, Terraform, Datadog, Honeycomb.io
+**(10%) Other fun stuff:** AWS Lambda, CockroachDB, Terraform
 </p>
 <br>
 
 
 ## Welcome to my playground 😄
 
-🔭 I’m currently working on exploring design patterns in Go & JavaScript.
+🔭 I’m currently working on private repo grad school projects in C, C++, C#, and Python.
 
-🌱 I'm currently learning PostgreSQL and brushing up on Python.
+🌱 I'm currently learning the server-side rendering framework Remix.js 💿
  
 📚 I'm currently reading Designing Data-Intensive Applications by Martin Kleppman.
  
