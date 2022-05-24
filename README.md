@@ -8,11 +8,11 @@ I'm a software engineer in the developer tool space. I work at high-growth start
 
 ### Current stack: 
 
-**(65%) Backend:** Go (Golang).
+**Backend:** Go (Golang).
 
-**(25%) Frontend:** TypeScript, React, Remix
+**Frontend:** TypeScript, React, Remix
 
-**(10%) Other fun stuff:** AWS Lambda, CockroachDB, Terraform
+**Other:** AWS Lambda, CockroachDB, Terraform
 </p>
 <br>
 
@@ -23,7 +23,7 @@ I'm a software engineer in the developer tool space. I work at high-growth start
 
 🌱 I'm currently learning the server-side rendering framework Remix.js 💿
  
-📚 I'm currently reading Designing Data-Intensive Applications by Martin Kleppman.
+📚 I'm currently reading Parallel Computing by Ananth Grama.
  
 <!--
 ---------------------------------------------------------------------------------
