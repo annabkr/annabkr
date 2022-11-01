@@ -1,7 +1,7 @@
 ## Hi there 👋 
 [![wakatime](https://wakatime.com/badge/user/584901d4-52a9-4053-9509-c5e912d0dfce.svg)](https://wakatime.com/@584901d4-52a9-4053-9509-c5e912d0dfce)
 
-I'm a software engineer in the developer tool space. I work at high-growth startup LaunchDarkly, and I'm a part-time graduate student pursuing a M.S. in Computer Science at Georgia Tech.
+I'm a software engineer in the developer tool space. I work at LaunchDarkly, and I'm a part-time graduate student pursuing a M.S. in Computer Science at Georgia Tech.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44475953/121054657-6d111500-c771-11eb-8064-6ee96af7dacd.jpeg" width=200 align="left">
@@ -10,9 +10,7 @@ I'm a software engineer in the developer tool space. I work at high-growth start
 
 **Backend:** Go (Golang).
 
-**Frontend:** TypeScript, React, Remix
-
-**Other:** AWS Lambda, CockroachDB, Terraform
+**Other:** AWS Lambda, Kinesis, SQS, CockroachDB, Terraform
 </p>
 <br>
 
@@ -21,7 +19,7 @@ I'm a software engineer in the developer tool space. I work at high-growth start
 
 🔭 I’m currently working on private repo grad school projects in C, C++, C#, and Python.
 
-🌱 I'm currently learning the server-side rendering framework Remix.js 💿
+🌱 I'm currently learning about operationalizing a greenfield project 💿
  
 📚 I'm currently reading Parallel Computing by Ananth Grama.
  
