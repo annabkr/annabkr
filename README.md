@@ -1,7 +1,7 @@
 ## Hi there 👋 
 [![wakatime](https://wakatime.com/badge/user/584901d4-52a9-4053-9509-c5e912d0dfce.svg)](https://wakatime.com/@584901d4-52a9-4053-9509-c5e912d0dfce)
 
-I'm a software engineer in the developer tool space
+I'm a software engineer in the developer tool space.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44475953/121054657-6d111500-c771-11eb-8064-6ee96af7dacd.jpeg" width=200 align="left">
