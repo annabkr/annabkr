@@ -1,5 +1,4 @@
 ## Hi there 👋 
-[![wakatime](https://wakatime.com/badge/user/584901d4-52a9-4053-9509-c5e912d0dfce.svg)](https://wakatime.com/@584901d4-52a9-4053-9509-c5e912d0dfce)
 
 I'm a software engineer in the developer tool space.
 
