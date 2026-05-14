@@ -4,4 +4,4 @@ I'm a senior software engineer at LaunchDarkly.
 
 🌱 Learning about agent orchestration 🤖
 
-🔭 Building AI developer tools in Go + Python 🐍 
+🔭 Building developer tools in Go + Python 🐍 
