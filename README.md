@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm a senior software engineer at LaunchDarkly, working on our expanding AI product suite.
+I'm a senior software engineer at LaunchDarkly.
 
 🌱 Learning about agent orchestration 🤖
 
