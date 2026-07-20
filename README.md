@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm a senior software engineer at LaunchDarkly.
+I'm a senior software engineer at Supabase, previously at LaunchDarkly.
 
 I love system architecture, ambiguous problems, and continual learning.
 
